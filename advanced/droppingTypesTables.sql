@@ -1,0 +1,15 @@
+DROP TABLE customer_table;
+DROP TABLE employee_table;
+DROP TABLE branch_table;
+DROP TABLE account_table;
+DROP TABLE CustomerAccount;
+DROP TYPE tp_name FORCE;
+DROP TYPE tp_phone_nested FORCE;
+DROP TYPE tp_phone FORCE;
+DROP TYPE tp_address FORCE;
+DROP TYPE tp_branch FORCE;
+DROP TYPE tp_person FORCE;
+DROP TYPE tp_job FORCE;
+DROP TYPE tp_employee FORCE;
+DROP TYPE tp_customer FORCE;
+DROP TYPE tp_account FORCE;
